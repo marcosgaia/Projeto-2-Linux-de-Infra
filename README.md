@@ -71,7 +71,7 @@ chmod +x provisionamento.sh
 - [WSL - Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/)
 
 ## 📜 Licença
-Este projeto está sob a licença MIT.
+Este projeto "# Inspirado nos estudos do bootcamp Dio.me."
 
 ---
 💡 **Contribuições são bem-vindas!** Caso tenha sugestões ou melhorias, abra um PR. 🚀
