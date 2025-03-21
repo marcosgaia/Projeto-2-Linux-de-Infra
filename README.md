@@ -67,7 +67,7 @@ chmod +x provisionamento.sh
 
 ## 📖 Referências
 - [Documentação do Apache](https://httpd.apache.org/docs/)
-- [Infraestrutura como Código (IaC) - Conceitos](https://www.terraform.io/)
+- [SANTANDER Infraestrutura como Código (IaC) - Conceitos](https://web.dio.me/track/santander-linux-para-iniciantes)
 - [WSL - Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/)
 
 ## 📜 Licença
